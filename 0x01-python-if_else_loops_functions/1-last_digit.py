@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# Prints the last digit of a random number
+# Evaluates the range of the last digit
+
 import random
 number = random.randint(-10000, 10000)
 
