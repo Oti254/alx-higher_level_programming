@@ -2,4 +2,4 @@
 # Function that computes a to the power b
 
 def pow(a, b):
-    return(a ** b)
+    return (a ** b)
