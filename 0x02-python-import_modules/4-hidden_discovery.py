@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python3.8
 # Prints names defined by compiled module hidden_4.pyc
 # This required python3.8
 # The hidden_py file was compiled with python3.8
